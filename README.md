@@ -27,7 +27,7 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 - Building custom ML models to process and analyze scientific literature on ceria synthesis
 - Pioneering the application of LLMs and fine-tuning techniques in the CMP domain
 - Enabling data-driven decisions to optimize material synthesis and experimental conditions
-- Presenting research at the 27th International Symposium on CMP (Saratoga, NY)
+- Presented my research at the 27th International Symposium on CMP (Saratoga, NY)
 - Collaborating with semiconductor industry leaders who are excited about AI's impact on manufacturing
 
 > *"This groundbreaking approach is new to the CMP community and has attracted significant interest from many semiconductor companies."* - Prof. Jihoon Seo

@@ -1,7 +1,11 @@
-# Hey there! 👋 I'm Prabhu
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer;AI+Research+Associate;Full+Stack+Developer" alt="Typing SVG"/>
+  <h1 align="center">
+    👨‍💻 Hey there! 👋 I'm Prabhu
+  </h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=900&color=00FFD0&background=161B2200&center=true&vCenter=true&width=650&lines=%F0%9F%96%A5+AI+%26+ML+Enthusiast;%F0%9F%94%A1+Data+Science+Explorer;%F0%9F%A7%AA+Building+Intelligent+Systems;%F0%9F%9A%80+Problem+Solver" alt="Dynamic Typing SVG" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
 ---
@@ -19,6 +23,21 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 - 💡 **Passion:** Turning raw data into intelligent solutions that matter
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=VANDRANKI&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANDRANKI&layout=compact&theme=radical&hide_border=true" height="180em"/>
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VANDRANKI&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VANDRANKI&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+---
+
 
 ## 🔬 Research & Current Work
 
@@ -103,18 +122,12 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VANDRANKI&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANDRANKI&layout=compact&theme=radical&hide_border=true" height="180em"/>
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VANDRANKI&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VANDRANKI&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
+## ⚡ Fun Facts About Me
+- 🔍 **Grounded seeker of truth** - Driven by curiosity and a deep desire to understand how things really work
+- ❓ **Relentless questioner** - Always probing beyond the obvious, never settling for easy answers
+- 🏛️ **learning-to-learn advocate** - Thrive on dialogue, critical thinking, and continually refining my ability to learn
+- 🌍 **Global collaborator** - Open to working on exciting projects from anywhere
+- 🕷️ **Friendly neighborhood data scientist** - Saving the world one dataset at a time!
 
 ---
 
@@ -129,15 +142,6 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-7607-2648)
 
 </div>
-
----
-
-## ⚡ Fun Facts About Me
-- 🔍 **Grounded seeker of truth** - Driven by curiosity and a deep desire to understand how things really work
-- ❓ **Relentless questioner** - Always probing beyond the obvious, never settling for easy answers
-- 🏛️ **learning-to-learn advocate** - Thrive on dialogue, critical thinking, and continually refining my ability to learn
-- 🌍 **Global collaborator** - Open to working on exciting projects from anywhere
-- 🕷️ **Friendly neighborhood data scientist** - Saving the world one dataset at a time!
 
 ---
 

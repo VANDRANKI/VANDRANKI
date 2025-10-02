@@ -135,10 +135,9 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 ---
 
 ## ⚡ Fun Facts About Me
-
-- ☕ **Coffee-fueled coder** - Debugging is best done with a fresh brew
-- 📚 **Perpetual learner** - Always exploring the latest in AI, ML, and data science
-- 🎯 **Problem-solving junkie** - Love tackling complex challenges with elegant solutions
+- 🔍 **Grounded seeker of truth** - Driven by curiosity and a deep desire to understand how things really work
+- ❓ **Relentless questioner** - Always probing beyond the obvious, never settling for easy answers
+- 🏛️ **learning-to-learn advocate** - Thrive on dialogue, critical thinking, and continually refining my ability to learn
 - 🌍 **Global collaborator** - Open to working on exciting projects from anywhere
 - 🕷️ **Friendly neighborhood data scientist** - Saving the world one dataset at a time!
 

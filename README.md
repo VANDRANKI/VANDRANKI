@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🎯 About Me
 
 I'm a data enthusiast who thrives on transforming complex datasets into actionable insights. Currently serving as a **Visiting Research Associate at Clarkson University**, where I'm pioneering innovative approaches at the intersection of machine learning and semiconductor technology. My journey bridges the worlds of software engineering, data science, and cutting-edge AI research.
@@ -36,9 +34,9 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=VANDRANKI&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
+
+
 ---
-
-
 ## 🔬 Research & Current Work
 
 ### 🏭 Semiconductor AI Research (Current)

@@ -1,4 +1,4 @@
-# Hi there, I'm VANDRANKI 👋
+# Hi there, I'm Prabhu 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer+%7C+Problem+Solver;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
@@ -153,24 +153,13 @@
 
 ---
 
-## 💼 Portfolio
-
-🌐 **Visit my portfolio:** [your-portfolio.com](https://your-portfolio.com)
-
-- 📱 Check out my mobile apps
-- 🎨 Browse my design work
-- 📝 Read my technical blogs
-- 🎥 Watch my tutorial videos
-
----
-
 ## ⚡ Fun Facts
 
 - 🎯 I love solving complex problems with elegant solutions
 - ☕ Coffee enthusiast and code optimizer
 - 🎮 Gaming in my free time
-- 📚 Always reading about new technologies
-- 🌍 Open to collaborating on exciting projects worldwide
+- 📚 Always reading about new technologies & AI tools
+- 🌍 Open to collaborating on exciting projects from anywhere
 
 ---
 
@@ -180,7 +169,6 @@
 - 📧 **Email:** your.email@example.com
 - 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 - 🐦 **Twitter:** [@your-handle](https://twitter.com/your-handle)
-
 ---
 
 ## 💡 Profile Views
@@ -189,17 +177,6 @@
   <img src="https://komarev.com/ghpvc/?username=VANDRANKI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
----
-
-## 🎯 Goals for 2025
-
-- [ ] Contribute to 10+ open-source projects
-- [ ] Build and launch 3 major projects
-- [ ] Write 20+ technical blog posts
-- [ ] Master a new programming language
-- [ ] Mentor aspiring developers
-
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -208,6 +185,6 @@
 ---
 
 <div align="center">
-  <h3>⭐️ From <a href="https://github.com/VANDRANKI">VANDRANKI</a></h3>
+  <h3>⭐️ From <a href="https://github.com/VANDRANKI">Prabhu</a></h3>
   <p>If you like my work, consider giving a ⭐ to my repositories!</p>
 </div>

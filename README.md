@@ -1,7 +1,7 @@
-# Hey there! 👋 I'm Prabhu Kiran Vandranki
+# Hey there! 👋 I'm Prabhu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Visiting+Research+Associate+%40+Clarkson;AI+%26+ML+Enthusiast;Data+Science+Explorer;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Data+Science+Explorer;Building+Intelligent+Systems;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,10 +10,10 @@
 
 I'm a data enthusiast who thrives on transforming complex datasets into actionable insights. Currently serving as a **Visiting Research Associate at Clarkson University**, where I'm pioneering innovative approaches at the intersection of machine learning and semiconductor technology. My journey bridges the worlds of software engineering, data science, and cutting-edge AI research.
 
-**What drives me?** The challenge of making data tell its story—whether through predictive models, elegant visualizations, or intelligent systems that solve real-world problems. I believe in sustainable, long-lasting solutions over quick fixes.
+**What drives me?** The challenge of making data tell its story - whether through predictive models, elegant visualizations, or intelligent systems that solve real-world problems. I believe in sustainable, long-lasting solutions over quick fixes.
 
 - 🔬 **Current Role:** Visiting Research Associate @ Clarkson University
-- 🎓 **Education:** MS in Applied Data Science (GPA: 3.95/4.0) | BTech in Computer Science
+- 🎓 **Education:** MS in Applied Data Science (GPA: 3.95/4.0) | BTech in Computer Science (GPA: 8.08/10.00)
 - 🌍 **Location:** Potsdam, New York
 - 🧪 **Research Focus:** Machine Learning for CMP (Chemical Mechanical Planarization) in Semiconductor Manufacturing
 - 💡 **Passion:** Turning raw data into intelligent solutions that matter
@@ -31,29 +31,6 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 - Collaborating with semiconductor industry leaders who are excited about AI's impact on manufacturing
 
 > *"This groundbreaking approach is new to the CMP community and has attracted significant interest from many semiconductor companies."* - Prof. Jihoon Seo
-
----
-
-## 💼 Professional Journey
-
-### 👨‍🔬 Clarkson University (Sep 2024 - Present)
-**Visiting Research Associate & Research Assistant**
-- Architecting ML pipelines for semiconductor research
-- Fine-tuning large language models for domain-specific applications
-- Transforming unstructured scientific data into predictive insights
-
-### 🎨 Graduate Assistant - FIA Web Development (Apr 2024 - Sep 2024)
-**Friends of India Association @ Clarkson University**
-- Designed and developed a full-stack React application using Vite
-- Created intuitive UI/UX designs in Figma
-- Built responsive, accessible interfaces that increased community engagement
-- [🔗 View Project](https://github.com/VANDRANKI)
-
-### 💻 Full-Stack Development Internships (2022)
-**Multiple roles across Web & Mobile Development**
-- **Oasis Infobyte:** Developed complete e-commerce platform with React, Node.js, and MongoDB
-- **LetsGrowMore:** Built COVID-19 tracker app in Android Studio with real-time API integration
-- **TwoWaits:** Created MERN stack task management application with RESTful APIs
 
 ---
 
@@ -140,16 +117,6 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/api/?username=VANDRANKI&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
-
----
-
-## 💬 Recommendations
-
-> **Prof. Jihoon Seo** (Assistant Professor, Clarkson University)  
-> *"Prabhu has been working with me since last summer on innovative topics combining testing and machine learning for CMP slurry development. This groundbreaking approach is new to the CMP community and has made incredible progress in a short time frame, attracting significant interest from many semiconductor companies. He is highly diligent and demonstrates excellent communication skills when working with teams."*
-
-> **Sai Kiran** (SDE-1 @ Sivi AI)  
-> *"With a strong foundation in DSA, mathematics, and problem-solving, he brings clarity and creativity to every challenge. His passion for NLP and ML is remarkable. He has conducted insightful research and built innovative projects that showcase his ability to create practical, impactful solutions."*
 
 ---
 

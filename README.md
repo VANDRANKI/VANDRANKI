@@ -107,7 +107,7 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
   - Mastered Choropleth Maps, Heat Maps, Scatter Plots, Tree Maps
 - 🤖 **Basics to Advanced Prompt Engineering** - Alison (Nov 2023)
   - Expert in ChatGPT, DALL-E2, Chain of Thought (COT), Few-shot learning
-- 📊 89+ Skills endorsed on LinkedIn including NLP, Python, ML, DSA, and Tableau
+- 📊 89+ Skills, some endorsed on LinkedIn including NLP, Python, ML, DSA, and Tableau
 
 ---
 

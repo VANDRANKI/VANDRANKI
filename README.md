@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=VANDRANKI&color=blueviolet&style=for-the-badge)
+
 <div align="center">
   <h1 align="center">
     👨‍💻 Hey there! 👋 I'm Prabhu
@@ -159,7 +161,5 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 ---
 
 ### 🌟 Thanks for stopping by! If you find my work interesting, consider giving a ⭐ to my repositories!
-
-![Profile Views](https://komarev.com/ghpvc/?username=VANDRANKI&color=blueviolet&style=for-the-badge)
 
 </div>

@@ -27,14 +27,7 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VANDRANKI&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANDRANKI&layout=compact&theme=radical&hide_border=true" height="180em"/>
-</div>
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VANDRANKI&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VANDRANKI&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 

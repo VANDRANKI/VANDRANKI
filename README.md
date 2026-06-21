@@ -12,7 +12,7 @@
 
 ## 🎯 About Me
 
-I'm a data enthusiast who thrives on transforming complex datasets into actionable insights. Currently serving as a **Visiting Research Associate at Clarkson University**, where I'm pioneering innovative approaches at the intersection of machine learning and semiconductor technology. My journey bridges the worlds of software engineering, data science, and cutting-edge AI research.
+I'm a data enthusiast who thrives on transforming complex datasets into actionable insights. Currently serving as a **Research Technician - CMP Modelling & Analytics at Clarkson University**, where I'm pioneering innovative approaches at the intersection of LLM's, ML, RAG, AI Agents and semiconductor technology. My journey bridges the worlds of software engineering, data science, and cutting-edge AI research.
 
 **What drives me?** The challenge of making data tell its story - whether through predictive models, elegant visualizations, or intelligent systems that solve real-world problems. I believe in sustainable, long-lasting solutions over quick fixes.
 

@@ -16,11 +16,11 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 
 **What drives me?** The challenge of making data tell its story - whether through predictive models, elegant visualizations, or intelligent systems that solve real-world problems. I believe in sustainable, long-lasting solutions over quick fixes.
 
-- 🔬 **Current Role:** Visiting Research Associate @ Clarkson University
+- 🔬 **Current Role:** Research Technician @ Clarkson University
 - 🎓 **Education:** MS in Applied Data Science (GPA: 3.95/4.0) | BTech in Computer Science (GPA: 8.08/10.00)
 - 🌍 **Location:** Potsdam, New York
-- 🧪 **Research Focus:** Machine Learning for CMP (Chemical Mechanical Planarization) in Semiconductor Manufacturing
-- 💡 **Passion:** Turning raw data into intelligent solutions that matter
+- 🧪 **Research Focus:** Machine Learning, AI Agents for CMP (Chemical Mechanical Planarization) in Semiconductor Manufacturing
+- 💡 **Passion:** I like learning, I like Growing, I like thinking
 
 ---
 

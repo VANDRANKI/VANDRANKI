@@ -127,7 +127,6 @@ I'm a data enthusiast who thrives on transforming complex datasets into actionab
 - ❓ **Relentless questioner** - Always probing beyond the obvious, never settling for easy answers
 - 🏛️ **learning-to-learn advocate** - Thrive on dialogue, critical thinking, and continually refining my ability to learn
 - 🌍 **Global collaborator** - Open to working on exciting projects from anywhere
-- 🕷️ **Friendly neighborhood data scientist** - Saving the world one dataset at a time!
 
 ---
 
